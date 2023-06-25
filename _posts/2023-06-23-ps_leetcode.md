@@ -4,14 +4,30 @@ title:  "leetcode - Q3 "
 categories: [ ps , leetcode ]
 image: assets/images/leetcode_image2.jpg
 tags: [sticky]
-tags: [featured]
+tags: [featured,leetcode]
 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
+
+```javascript
+var hello = function(){
+  var radio = document.getElementsByName('gender');
+  for(i=0; i < radio.length; i++){
+    if(radio[i].checked){
+      var result = radio[i].value;
+    }
+  }
+  return result;
+}
+```
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 
 {% highlight ruby %}
 def print_hi(name)
