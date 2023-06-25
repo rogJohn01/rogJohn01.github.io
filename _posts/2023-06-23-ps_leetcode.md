@@ -3,7 +3,6 @@ layout: post
 title:  "leetcode - Q3 "
 categories: [ ps , leetcode ]
 image: assets/images/leetcode_image2.jpg
-tags: [sticky]
 tags: [featured,leetcode]
 
 ---
