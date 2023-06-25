@@ -21,11 +21,10 @@ plugins:
 authors:
     john:
       name:           John
-      site:           https://www.wowthemes.net
+      site:           
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am John, the author of this blog,  I hope you like the blog!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      email:         
 
    
  
