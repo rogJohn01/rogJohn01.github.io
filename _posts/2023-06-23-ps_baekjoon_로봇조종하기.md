@@ -3,7 +3,7 @@ layout: post
 title:  "baekjoon- 로봇 "
 categories: [ ps , baekjoon ]
 image: assets/images/baekjoon_image1.jpg
-tags: [sticky]
+tags: [ps,baekjoon]
 
 ---
 

@@ -30,7 +30,7 @@ tags: [featured,leetcode]
 
 
 
-```python
+```java
 class Solution {
     public int maximumBeauty(int[] nums, int k) {
         
